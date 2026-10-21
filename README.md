@@ -224,7 +224,6 @@ observatorio-demografico-streamlit/
 
 ---
 
-
 ## Contexto acadêmico
 
 Este projeto foi desenvolvido para a disciplina **Programação Web Front-End com Python**.
