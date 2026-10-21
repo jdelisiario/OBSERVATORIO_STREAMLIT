@@ -2,7 +2,7 @@
 
 > Dashboard analítico desenvolvido com **Streamlit**, **Pandas** e **Plotly** para explorar dados populacionais do Censo Demográfico 2022 do IBGE em uma aplicação web Python.
 
-🔗 **[Acesse a aplicação em produção](https://observatoriodemografico.streamlit.app/)**
+🔗 **[Acesse a aplicação em produção](https://observatorioapp.streamlit.app/)**
 
 ![Preview do Observatório Demográfico](images/og-preview.png)
 
